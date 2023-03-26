@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/blhomstein/static/css/main.301861af.chunk.css",
+    "main.js": "/blhomstein/static/js/main.20aaaed3.chunk.js",
+    "main.js.map": "/blhomstein/static/js/main.20aaaed3.chunk.js.map",
+    "runtime-main.js": "/blhomstein/static/js/runtime-main.f07e421d.js",
+    "runtime-main.js.map": "/blhomstein/static/js/runtime-main.f07e421d.js.map",
+    "static/css/2.a1596f27.chunk.css": "/blhomstein/static/css/2.a1596f27.chunk.css",
+    "static/js/2.6dedeb1c.chunk.js": "/blhomstein/static/js/2.6dedeb1c.chunk.js",
+    "static/js/2.6dedeb1c.chunk.js.map": "/blhomstein/static/js/2.6dedeb1c.chunk.js.map",
+    "static/js/3.f3f4da45.chunk.js": "/blhomstein/static/js/3.f3f4da45.chunk.js",
+    "static/js/3.f3f4da45.chunk.js.map": "/blhomstein/static/js/3.f3f4da45.chunk.js.map",
+    "index.html": "/blhomstein/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/blhomstein/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.301861af.chunk.css.map": "/blhomstein/static/css/main.301861af.chunk.css.map",
+    "static/js/2.6dedeb1c.chunk.js.LICENSE.txt": "/blhomstein/static/js/2.6dedeb1c.chunk.js.LICENSE.txt",
+    "static/media/about.42d6f48e.jpg": "/blhomstein/static/media/about.42d6f48e.jpg",
+    "static/media/about2.0b4a59f3.jpg": "/blhomstein/static/media/about2.0b4a59f3.jpg",
+    "static/media/blackhole.958cd5f9.png": "/blhomstein/static/media/blackhole.958cd5f9.png",
+    "static/media/grave.f50ee83b.png": "/blhomstein/static/media/grave.f50ee83b.png",
+    "static/media/horrorScene.b183ee21.png": "/blhomstein/static/media/horrorScene.b183ee21.png",
+    "static/media/mountain.715b9d0f.png": "/blhomstein/static/media/mountain.715b9d0f.png",
+    "static/media/ofmice.86719866.png": "/blhomstein/static/media/ofmice.86719866.png",
+    "static/media/otter.d803f6ab.png": "/blhomstein/static/media/otter.d803f6ab.png",
+    "static/media/phone.a0cda8e3.png": "/blhomstein/static/media/phone.a0cda8e3.png",
+    "static/media/portfolio.b065f595.pdf": "/blhomstein/static/media/portfolio.b065f595.pdf",
+    "static/media/profile.eb4489b7.png": "/blhomstein/static/media/profile.eb4489b7.png",
+    "static/media/room.e201ae45.png": "/blhomstein/static/media/room.e201ae45.png",
+    "static/media/unsi.1a883e10.png": "/blhomstein/static/media/unsi.1a883e10.png",
+    "static/media/wemen.147981a6.png": "/blhomstein/static/media/wemen.147981a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f07e421d.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.6dedeb1c.chunk.js",
+    "static/css/main.301861af.chunk.css",
+    "static/js/main.20aaaed3.chunk.js"
+  ]
+}
