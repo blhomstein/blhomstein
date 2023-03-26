@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/blhomstein/static/css/main.301861af.chunk.css",
-    "main.js": "/blhomstein/static/js/main.4705bb97.chunk.js",
-    "main.js.map": "/blhomstein/static/js/main.4705bb97.chunk.js.map",
+    "main.js": "/blhomstein/static/js/main.bb2a9b2f.chunk.js",
+    "main.js.map": "/blhomstein/static/js/main.bb2a9b2f.chunk.js.map",
     "runtime-main.js": "/blhomstein/static/js/runtime-main.f07e421d.js",
     "runtime-main.js.map": "/blhomstein/static/js/runtime-main.f07e421d.js.map",
     "static/css/2.a1596f27.chunk.css": "/blhomstein/static/css/2.a1596f27.chunk.css",
@@ -15,7 +15,6 @@
     "static/css/main.301861af.chunk.css.map": "/blhomstein/static/css/main.301861af.chunk.css.map",
     "static/js/2.6dedeb1c.chunk.js.LICENSE.txt": "/blhomstein/static/js/2.6dedeb1c.chunk.js.LICENSE.txt",
     "static/media/about.42d6f48e.jpg": "/blhomstein/static/media/about.42d6f48e.jpg",
-    "static/media/about2.0b4a59f3.jpg": "/blhomstein/static/media/about2.0b4a59f3.jpg",
     "static/media/blackhole.958cd5f9.png": "/blhomstein/static/media/blackhole.958cd5f9.png",
     "static/media/blhomsteincv.2c3ff66f.pdf": "/blhomstein/static/media/blhomsteincv.2c3ff66f.pdf",
     "static/media/grave.f50ee83b.png": "/blhomstein/static/media/grave.f50ee83b.png",
@@ -34,6 +33,6 @@
     "static/css/2.a1596f27.chunk.css",
     "static/js/2.6dedeb1c.chunk.js",
     "static/css/main.301861af.chunk.css",
-    "static/js/main.4705bb97.chunk.js"
+    "static/js/main.bb2a9b2f.chunk.js"
   ]
 }
